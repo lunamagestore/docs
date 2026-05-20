@@ -70,6 +70,12 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "test",
+        "pages": [
+          "api-documents"
+        ]
       }
     ],
     "global": {
